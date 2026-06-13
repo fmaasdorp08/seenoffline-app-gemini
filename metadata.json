@@ -1,0 +1,6 @@
+{
+  "name": "SeenOffline",
+  "description": "Viral social intelligence AI. Upload chat screenshots to analyze attraction signals, power dynamics, ghosting probability, and hidden tensions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
